@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shuak Bakytnur (曲瓦克)"
+title                    : "Shuak Bakytnur\n(曲瓦克)"
 description              : "Second-year Master student at School of Computer Science and Technology, USTC"
 repository               : "Shuaque/shuaque.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuak Bakytnur (曲瓦克)"
+  name             : "Shuak Bakytnur\n(曲瓦克)"
   avatar           : "images/pic.jpg"
   bio              : "University of Science & Technology of China"
   location         : "Anhui, China"

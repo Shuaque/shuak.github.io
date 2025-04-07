@@ -20,6 +20,7 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 <center>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7lDj_JH5NuL-OvhCXJ4sXJeVfyN1tWtM759_poGnO8g&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7lDj_JH5NuL-OvhCXJ4sXJeVfyN1tWtM759_poGnO8g&cl=ffffff&w=a"></script>
+  
     <br> &copy; Shuak Bakytnur | Last updated: April. 8th, 2025 | Theme by Yi Ren & JusperLee
 </center>

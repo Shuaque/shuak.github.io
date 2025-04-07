@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shuak Bakytnur"
+title                    : "Shuak Bakytnur (曲瓦克)"
 description              : "Second-year Master student at School of Computer Science and Technology, USTC"
-repository               : "shuaque.github.io"
+repository               : "Shuaque/shuaque.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuak Bakytnur"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Shuak Bakytnur (曲瓦克)"
+  avatar           : "images/github.jpg"
   bio              : "University of Science & Technology of China"
   location         : "Anhui, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=kA_hyaMAAAAJ"
   email            : "shuakbakytnur@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Shuaque"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "shuak-bakytnur-74a741238"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -91,6 +91,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn

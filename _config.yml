@@ -21,10 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : |
-                      <div style="text-align: center;">
-                        Shuak Bakytnur<br>(曲瓦克)
-                      </div>
+  name             : <div style="text-align: center;"> "Shuak Bakytnur"<br>"(曲瓦克)" </div>
   avatar           : "images/pic.jpg"
   bio              : "University of Science & Technology of China"
   location         : "Anhui, China"
